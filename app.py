@@ -1,8 +1,3 @@
-
-import streamlit as st
-import openai
-import time
-
 st.set_page_config(page_title="Deep Blue Brand – Chat", layout="wide")
 st.title("💬 Deep Blue Brand – Chat Conversazionale")
 st.markdown("Parla direttamente con il tuo agente strategico semiotico. Usa linguaggio naturale o attiva le funzioni rapide (es. `/claim`, `/benchmark`).")
