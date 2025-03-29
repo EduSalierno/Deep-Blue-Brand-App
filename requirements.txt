@@ -1,0 +1,15 @@
+streamlit
+openai
+PyPDF2
+ebooklib
+beautifulsoup4
+python-docx
+python-pptx
+pandas
+matplotlib
+scikit-learn
+networkx
+msal
+msal-extensions
+requests
+msal-streamlit-authentication
